@@ -81,21 +81,19 @@ My recent work includes published NLP research (95.08% F1, JDSIS 2026), large-sc
 
 ###
 
-<div align="left">
-
+<p align="left">
   <a href="https://www.instagram.com/s4nkar.__" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=24292F&logoColor=white&labelColor=24292F&style=for-the-badge" height="35" alt="instagram logo" />
+    <img src="https://img.shields.io/badge/Instagram-24292F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-
+  
   <a href="https://www.linkedin.com/in/s4nkar/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=24292F&logoColor=white&labelColor=24292F&style=for-the-badge" height="35" alt="linkedin logo" />
+    <img src="https://img.shields.io/badge/LinkedIn-24292F?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
+  
   <a href="https://stackoverflow.com/users/18753226/sankar" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=24292F&logoColor=white&labelColor=24292F&style=for-the-badge" height="35" alt="stackoverflow logo" />
+    <img src="https://img.shields.io/badge/StackOverflow-24292F?style=for-the-badge&logo=stackoverflow&logoColor=white" />
   </a>
-
-</div>
+</p>
 
 ###
 
