@@ -28,52 +28,52 @@ My recent work includes published NLP research (95.08% F1, JDSIS 2026), large-sc
 <div align="left">
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-  <img width="12" />
+  <img width="6" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo" />
-  <img width="12" />
+  <img width="6" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo" />
-  <img width="12" />
+  <img width="6" />
 
   <img src="https://skillicons.dev/icons?i=fastapi" height="30" alt="fastapi logo" />
-  <img width="12" />
+  <img width="6" />
 
   <img src="https://skillicons.dev/icons?i=flask" height="30" alt="flask logo" />
-  <img width="12" />
+  <img width="6" />
 
   <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo" />
-  <img width="12" />
+  <img width="6" />
 
   <img src="https://skillicons.dev/icons?i=kubernetes" height="30" alt="kubernetes logo" />
-  <img width="12" />
+  <img width="6" />
 
   <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="postgresql logo" />
-  <img width="12" />
+  <img width="6" />
 
   <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo" />
-  <img width="12" />
+  <img width="6" />
 
   <img src="https://skillicons.dev/icons?i=redis" height="30" alt="redis logo" />
-  <img width="12" />
+  <img width="6" />
 
   <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo" />
-  <img width="12" />
+  <img width="6" />
 
   <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo" />
-  <img width="12" />
+  <img width="6" />
 
   <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo" />
-  <img width="12" />
+  <img width="6" />
 
   <img src="https://skillicons.dev/icons?i=aws" height="30" alt="aws logo" />
-  <img width="12" />
+  <img width="6" />
 
   <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo" />
-  <img width="12" />
+  <img width="6" />
 
   <img src="https://skillicons.dev/icons?i=typescript" height="30" alt="typescript logo" />
-  <img width="12" />
+  <img width="6" />
 
   <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwind logo" />
 
