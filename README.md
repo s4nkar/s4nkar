@@ -94,6 +94,11 @@ My recent work includes published NLP research (95.08% F1, JDSIS 2026), large-sc
     <img src="https://img.shields.io/badge/StackOverflow-24292F?style=for-the-badge&logo=stackoverflow&logoColor=white" />
   </a>
 </p>
+[![Instagram](https://img.shields.io/badge/Instagram-%2324292F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/___sankar.__?igshid=MzMyNGUyNmU2YQ==)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%2324292F?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s4nkar/)
+
+[![StackOverflow](https://img.shields.io/badge/StackOverflow-%2324292F?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/18753226/sankar)
 
 ###
 
