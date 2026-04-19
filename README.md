@@ -91,14 +91,14 @@ My recent work includes published NLP research (95.08% F1, JDSIS 2026), large-sc
 
 </p>
 
-<div style="display: flex; gap: 8px; justify-content: flex-start; flex-wrap: wrap;">
-  <a href="https://instagram.com/s4nkar.__">
+<div style="display: flex; gap: 8px; align-items: center; flex-wrap: wrap;">
+  <a href="https://instagram.com/s4nkar.__" style="text-decoration: none; border-bottom: none;">
     <img src="https://img.shields.io/badge/Instagram-%2324292F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="https://www.linkedin.com/in/s4nkar/">
+  <a href="https://www.linkedin.com/in/s4nkar/" style="text-decoration: none; border-bottom: none;">
     <img src="https://img.shields.io/badge/LinkedIn-%2324292F?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://stackoverflow.com/users/18753226/sankar">
+  <a href="https://stackoverflow.com/users/18753226/sankar" style="text-decoration: none; border-bottom: none;">
     <img src="https://img.shields.io/badge/StackOverflow-%2324292F?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow">
   </a>
 </div>
