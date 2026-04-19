@@ -14,6 +14,15 @@ My recent work includes published NLP research (95.08% F1, JDSIS 2026), large-sc
   <a href="https://github.com/s4nkar" title="Github Readme Streak Stats"><img src="https://fabianocouto-readme-stats.vercel.app/api?username=s4nkar&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark_dimmed&hide=stars&line_height=28&rank_icon=github" alt="s4nkar" width=48.7% /></a>
   <a href="https://github.com/s4nkar" title="Github Readme Streak Stats"><img src="https://fabianocouto-readme-streak-stats.vercel.app/?user=s4nkar&background=24292f&border=373e47&stroke=373e47&currStreakNum=adbac7&sideNums=adbac7&sideLabels=adbac7&dates=adbac7&ring=539bf5&currStreakLabel=539bf5&fire=539bf5%27%20-o%20streak-stats.svg" alt="s4nkar" width=48.7% /></a>
 </div>
+<div class="d-block" width=99.8%>
+  <a href="https://github.com/s4nkar">
+    <img src="https://fabianocouto-readme-stats.vercel.app/api?username=s4nkar&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark_dimmed&hide=stars&line_height=28&rank_icon=github" width="48.7%" />
+  </a>
+
+  <a href="https://wakatime.com/@db21b6e2-184a-400b-9d08-d8bd019efba2">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=db21b6e2-184a-400b-9d08-d8bd019efba2&theme=github_dark_dimmed&layout=compact" width="48.7%" />
+  </a>
+</div>
 <be>
 <div width="98%" style="width:98%">
 <a href="https://github.com/s4nkar" title="Github Readme Activity Stats"><img src="https://fabianocouto-activity-graph.vercel.app/graph/?username=s4nkar&theme=github-dark-dimmed&radius=6&area=true%27%20-o%20activity-graph.svg" alt="s4nkar" width=98% /></a>
