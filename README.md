@@ -83,7 +83,7 @@ My recent work includes published NLP research (95.08% F1, JDSIS 2026), large-sc
 
 <div align="left">
 
-  <a href="https://instagram.com/___sankar.__?igshid=MzMyNGUyNmU2YQ==" target="_blank">
+  <a href="https://www.instagram.com/s4nkar.__" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=24292F&logoColor=white&labelColor=24292F&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
 
