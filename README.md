@@ -81,15 +81,7 @@ My recent work includes published NLP research (95.08% F1, JDSIS 2026), large-sc
 
 ###
 
-<p align="left">
-
-[![Instagram](https://img.shields.io/badge/Instagram-%2324292F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/s4nkar.__)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%2324292F?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s4nkar/)
-
-[![StackOverflow](https://img.shields.io/badge/StackOverflow-%2324292F?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/18753226/sankar)
-
-</p>
+[![Instagram](https://img.shields.io/badge/Instagram-%2324292F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/s4nkar.__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%2324292F?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s4nkar/) [![StackOverflow](https://img.shields.io/badge/StackOverflow-%2324292F?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/18753226/sankar)
 
 <div style="display: flex; gap: 8px; align-items: center; flex-wrap: wrap;">
   <a href="https://instagram.com/s4nkar.__" style="text-decoration: none; border-bottom: none;">
