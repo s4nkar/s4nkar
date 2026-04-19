@@ -3,9 +3,7 @@
 
 ## Hey, I'm Sankar!
 
-I'm a software engineer from Kerala, India.
-
-I have over three years of professional experience and a master's in Artificial Intelligence from London. I value simplicity in solutions, clean and efficient code, and  perfectly balanced responsive designs. I take pride in crafting code that feels like a true work of art, where every detail is carefully considered and refined.
+I'm an Applied AI Engineer with 3+ years of experience building production ML systems across NLP, LLM workflows, RAG pipelines, and multimodal AI. MSc in Artificial Intelligence with a focus on reliable, scalable systems that work beyond benchmarks.Applied AI Engineer with 3+ years of experience building production ML systems across NLP, LLM workflows, RAG pipelines, and multimodal AI. MSc in Artificial Intelligence with a focus on reliable, scalable systems that work beyond benchmarks.
 
 ###
 <h6>💡 Feel free to DM me for access to private repositories, advanced Deep Learning, and NLP projects! 🚀</h6>
