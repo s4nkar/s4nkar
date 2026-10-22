@@ -3,7 +3,7 @@
 
 ## Hey, I'm Sankar!
 
-I'm an Applied AI Engineer with 3+ years of experience building production ML systems across NLP, LLM workflows, RAG pipelines, and multimodal AI. I hold a Master's in Artificial Intelligence, with a strong focus on reliable, scalable systems that perform beyond benchmark scores.
+I'm an Applied AI Engineer with 4+ years of experience building production ML systems across NLP, LLM workflows, RAG pipelines, and multimodal AI. I hold a Master's in Artificial Intelligence, with a strong focus on reliable, scalable systems that perform beyond benchmark scores.
 
 My recent work includes published NLP research (95.08% F1, JDSIS 2026), large-scale data pipelines processing 250k+ samples, and a multimodal system built on Wav2Vec2 & RoBERTa that outperformed traditional ML baselines by 30%.
 
