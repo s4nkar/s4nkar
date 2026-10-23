@@ -1,4 +1,4 @@
-[![Views](https://komarev.com/ghpvc/?username=s4nkar&style=flat)](https://komarev.com/ghpvc/?username=s4nkar&style=flat)
+[![Profile Views](https://komarev.com/ghpvc/?username=s4nkar&style=flat)](https://github.com/antonkomarev/github-profile-views-counter)
 [![wakatime](https://wakatime.com/badge/user/db21b6e2-184a-400b-9d08-d8bd019efba2.svg)](https://wakatime.com/@db21b6e2-184a-400b-9d08-d8bd019efba2)
 
 ## Hey, I'm Sankar!
