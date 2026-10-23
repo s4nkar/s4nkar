@@ -12,7 +12,9 @@ My recent work includes published NLP research (95.08% F1, JDSIS 2026), large-sc
 
 <div class="d-block" width=99.8%>
   <a href="https://github.com/s4nkar" title="Github Readme Streak Stats"><img src="https://fabianocouto-readme-stats.vercel.app/api?username=s4nkar&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark_dimmed&hide=stars&line_height=28&rank_icon=github" alt="s4nkar" width=48.7% /></a>
-  <a href="https://github.com/s4nkar" title="Github Readme Streak Stats"><img src="https://fabianocouto-readme-streak-stats.vercel.app/?user=s4nkar&background=24292f&border=373e47&stroke=373e47&currStreakNum=adbac7&sideNums=adbac7&sideLabels=adbac7&dates=adbac7&ring=539bf5&currStreakLabel=539bf5&fire=539bf5%27%20-o%20streak-stats.svg" alt="s4nkar" width=48.7% /></a>
+  <a href="https://github.com/s4nkar" title="GitHub Readme Streak Stats">
+  <img src="https://streak-stats.demolab.com/?user=s4nkar&background=24292f&border=373e47&stroke=373e47&currStreakNum=adbac7&sideNums=adbac7&sideLabels=adbac7&dates=adbac7&ring=539bf5&currStreakLabel=539bf5&fire=539bf5" alt="s4nkar GitHub streak stats" width="48.7%" />
+</a>
 </div>
 <be>
 <div width="98%" style="width:98%">
